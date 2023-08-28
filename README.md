@@ -101,6 +101,7 @@ For Task 2, Check the landing zone as described in [Microhack Overview](#microha
 
 ### Learning Resources 
 https://learn.microsoft.com/en-us/azure/devops/repos/git/clone?view=azure-devops&tabs=git-command-line
+
 https://developer.hashicorp.com/terraform/cli/commands
 
 ### Sucess Criteria
