@@ -21,7 +21,7 @@ If you don't have the right subscription, select the right one with the followin
 
 - Clone the following GitHub repository
 
-`git clone https://github.com/aramsmith/avnm-microhack`
+`git clone https://github.com/aramsmith/avnmmicrohack`
 
 - Go to the new folder AVNM-Microhack
 
